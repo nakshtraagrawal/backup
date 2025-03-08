@@ -1,0 +1,49 @@
+image_name,object_class,center_x,center_y,confidence_score
+nvcamtest_9823_s00_00019.jpg,blue plane,968,3776,0.458
+nvcamtest_9823_s00_00019.jpg,orange basket ball,968,2362,0.369
+nvcamtest_9823_s00_00019.jpg,brown lugguage bag,912,2191,0.369
+nvcamtest_9823_s00_00004.jpg,red mattress,5520,2110,0.439
+nvcamtest_9823_s00_00039.jpg,brown lugguage bag,577,607,0.410
+nvcamtest_9823_s00_00011.jpg,orange basket ball,5370,2895,0.514
+nvcamtest_9823_s00_00011.jpg,red mattress,5374,3959,0.510
+nvcamtest_9823_s00_00026.jpg,orange basket ball,1444,1157,0.524
+nvcamtest_9823_s00_00026.jpg,red mattress,721,720,0.431
+nvcamtest_9823_s00_00003.jpg,red mattress,5357,2105,0.460
+nvcamtest_9823_s00_00014.jpg,brown lugguage bag,1199,3127,0.722
+nvcamtest_9823_s00_00018.jpg,red mattress,4833,647,0.454
+nvcamtest_9823_s00_00040.jpg,people,195,2136,0.437
+nvcamtest_9823_s00_00025.jpg,orange basket ball,1365,2707,0.586
+nvcamtest_9823_s00_00036.jpg,brown lugguage red mattress,2903,1990,0.384
+nvcamtest_9823_s00_00015.jpg,brown lugguage bag,1192,1698,0.690
+nvcamtest_9823_s00_00021.jpg,red mattress,5138,3738,0.638
+nvcamtest_9823_s00_00021.jpg,brown lugguage bag,149,2120,0.569
+nvcamtest_9823_s00_00002.jpg,brown lugguage bag,545,1071,0.698
+nvcamtest_9823_s00_00002.jpg,red mattress,5369,2107,0.383
+nvcamtest_9823_s00_00008.jpg,blue plane,664,1443,0.692
+nvcamtest_9823_s00_00008.jpg,red mattress,5352,1976,0.407
+nvcamtest_9823_s00_00027.jpg,red mattress,4732,4029,0.531
+nvcamtest_9823_s00_00024.jpg,orange basket ball,1467,3852,0.535
+nvcamtest_9823_s00_00020.jpg,red mattress,2815,210,0.440
+nvcamtest_9823_s00_00020.jpg,brown lugguage bag,2411,409,0.421
+nvcamtest_9823_s00_00020.jpg,orange basket ball,1527,83,0.395
+nvcamtest_9823_s00_00020.jpg,people,2233,505,0.370
+nvcamtest_9823_s00_00020.jpg,people,197,103,0.367
+nvcamtest_9823_s00_00038.jpg,red mattress,4316,2529,0.439
+nvcamtest_9823_s00_00005.jpg,blue plane,1589,3163,0.787
+nvcamtest_9823_s00_00005.jpg,orange basket ball,5411,3190,0.462
+nvcamtest_9823_s00_00005.jpg,red mattress,5509,2108,0.435
+nvcamtest_9823_s00_00017.jpg,blue plane,4177,4125,0.504
+nvcamtest_9823_s00_00001.jpg,people,5030,2440,0.490
+nvcamtest_9823_s00_00001.jpg,people,4394,2870,0.479
+nvcamtest_9823_s00_00001.jpg,people,4639,2614,0.438
+nvcamtest_9823_s00_00009.jpg,blue plane,4618,4073,0.363
+nvcamtest_9823_s00_00006.jpg,blue plane,1584,1136,0.838
+nvcamtest_9823_s00_00006.jpg,orange basket ball,5371,1170,0.539
+nvcamtest_9823_s00_00031.jpg,orange basket ball,472,2860,0.513
+nvcamtest_9823_s00_00035.jpg,brown lugguage red,2906,3384,0.400
+nvcamtest_9823_s00_00007.jpg,people,4586,2818,0.384
+nvcamtest_9823_s00_00007.jpg,blue plane,4604,2152,0.373
+nvcamtest_9823_s00_00007.jpg,people,4012,2812,0.361
+nvcamtest_9823_s00_00034.jpg,red mattress,665,648,0.485
+nvcamtest_9823_s00_00016.jpg,brown lugguage bag,1310,309,0.704
+nvcamtest_9823_s00_00032.jpg,orange basket ball,568,1635,0.503

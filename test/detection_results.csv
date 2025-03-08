@@ -1,0 +1,27 @@
+image_name,object_class,center_x,center_y,confidence_score
+nvcamtest_9823_s00_00019.jpg,blue drone,966,3777,0.352
+nvcamtest_9823_s00_00019.jpg,brown lugguage bag,1647,1708,0.350
+nvcamtest_9823_s00_00019.jpg,person,254,3372,0.349
+nvcamtest_9823_s00_00011.jpg,red thick bed mattress,5373,3958,0.505
+nvcamtest_9823_s00_00014.jpg,brown lugguage bag,1199,3127,0.687
+nvcamtest_9823_s00_00040.jpg,person,195,2138,0.556
+nvcamtest_9823_s00_00036.jpg,red thick bed mattress,2903,1991,0.494
+nvcamtest_9823_s00_00015.jpg,brown lugguage bag,1192,1699,0.650
+nvcamtest_9823_s00_00021.jpg,brown lugguage bag,148,2119,0.508
+nvcamtest_9823_s00_00002.jpg,brown lugguage bag,544,1072,0.636
+nvcamtest_9823_s00_00008.jpg,blue drone,665,1443,0.346
+nvcamtest_9823_s00_00020.jpg,person,2233,506,0.513
+nvcamtest_9823_s00_00020.jpg,person,196,102,0.370
+nvcamtest_9823_s00_00020.jpg,brown lugguage bag,2411,410,0.346
+nvcamtest_9823_s00_00038.jpg,red thick bed mattress,4316,2530,0.497
+nvcamtest_9823_s00_00005.jpg,blue drone,1589,3165,0.406
+nvcamtest_9823_s00_00001.jpg,person,4395,2872,0.622
+nvcamtest_9823_s00_00001.jpg,person,5028,2441,0.598
+nvcamtest_9823_s00_00001.jpg,person,4638,2616,0.562
+nvcamtest_9823_s00_00001.jpg,person,4676,2288,0.487
+nvcamtest_9823_s00_00006.jpg,blue drone,1585,1137,0.427
+nvcamtest_9823_s00_00035.jpg,brown lugguage bag,2906,3384,0.490
+nvcamtest_9823_s00_00007.jpg,person,4585,2820,0.429
+nvcamtest_9823_s00_00007.jpg,person,4006,2818,0.414
+nvcamtest_9823_s00_00007.jpg,person,4598,2152,0.395
+nvcamtest_9823_s00_00016.jpg,brown lugguage bag,1310,309,0.665

@@ -1,0 +1,16 @@
+image_name,object_class,center_x,center_y,confidence_score
+captured_image_014.jpg,black mattress,836,730,0.361
+captured_image_012.jpg,person,3155,1131,0.737
+captured_image_012.jpg,black mattress,555,1686,0.508
+captured_image_010 (1).jpg,person,3747,234,0.849
+captured_image_010 (1).jpg,black mattress,586,437,0.469
+captured_image_003.jpg,two white snow skis,2460,2023,0.394
+captured_image_004.jpg,white aeroplane,2160,1955,0.547
+captured_image_015.jpg,black mattress,475,1335,0.612
+captured_image_003 (1).jpg,white snowboard,1566,721,0.453
+captured_image_006.jpg,white snowboard,1542,748,0.467
+captured_image_021.jpg,person,3053,1785,0.701
+captured_image_021.jpg,black mattress,1273,1391,0.414
+captured_image_010.jpg,white aeroplane,2140,1933,0.480
+captured_image_005.jpg,two white snow skis,2410,2027,0.415
+captured_image_013.jpg,white aeroplane,1896,1270,0.521
